@@ -13,10 +13,15 @@ Ich verbinde langjährige Erfahrung in der B2B-Beratung mit praktischer Arbeit a
 
 | Projekt | Ergebnis und Technologien | Projektstatus |
 | --- | --- | --- |
+| **[Klare KI Beratungstrainer — WBS Abschlussprojekt](https://github.com/klarekipro/Beratungsgespr-ch-Trainer)** | Beratungsgespräche mit virtuellem KI-Kunden, versionierte Personas, vorläufige KI-Auswertung und unabhängiges Mentor-Feedback; **Python, FastAPI, SQLite, OpenAI**. [Video-Präsentation](https://www.youtube.com/watch?v=Am0c8ubUu1I). | **Lokaler MVP**, deutscher E2E-Ablauf mit Mentor-Feedback und interner Zertifikatsausgabe abgenommen; keine öffentlich betriebene Web-Anwendung. |
 | **[Train Today — AI Business Suite](https://github.com/klareki-lab/Train-Today-AI-Business-Suite)** | Integration von HR-Portal, Onboarding Coordinator, CRM und 14 n8n-Workflow-Exporten; **Docker, PostgreSQL, React, Node.js**. Meine Rolle: Architektur- und Integrationskoordination, lokale Bereitstellung, Review und Abnahme. | **Lokale Demonstration**; externe KI und Workflows im Demo deaktiviert. Gemeinschaftsprojekt mit dokumentierter [Herkunft und Beiträgen](https://github.com/klareki-lab/Train-Today-AI-Business-Suite/blob/main/PROVENANCE.md). |
 | **[WBS Trade Fair Assistant](https://github.com/klareki-lab/wbs-trade-fair-assistant)** | Messekontakte erfassen, mit **n8n** und KI-gestützten Schritten bearbeiten, bewerten und im CRM verfolgen; **PostgreSQL, Node.js, APIs**. | Lern- und Integrationsprojekt; die vollständige funktionale Endabnahme ist im Repository als offen dokumentiert. |
 | **[Restaurant Voice & Delivery MVP](https://github.com/klarekipro/Klare-KI-Restaurant-Voice-Delivery)** | Bestellannahme, menschliche Freigabe, Küche, Fahrer, CRM und Kennzahlen; **Python, FastAPI, SQLite**. | **Lokaler MVP mit Anruf-Simulator**; noch keine echte Telefonie, ASR, LLM-Dialoge oder TTS. |
 | **[Employee Onboarding Assistant](https://github.com/klareki-lab/wbs-employee-onboarding)** | HR-Anmeldung und -Freigabe, Einladungsprozess, Rollen und lokale n8n-Abläufe; **React, TypeScript, PostgreSQL**. | Lokales WBS-Lernprojekt, kein öffentlich bereitgestellter Produktivdienst. |
+
+## Weiterbildung
+
+**WBS Coding School — AI Agents & Automations**, Abschlusszertifikat (25.08.–16.11.2026, 450 Stunden). Abschlussprojekt: Klare KI Beratungstrainer.
 
 ## Kompetenzfelder
 
